@@ -59,6 +59,6 @@ See also the list of [contributors](https://github.com/dgsqef/AIBookFormater/con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Unlicensed License - see the [LICENSE.md](LICENSE.md) file for details
 
 
