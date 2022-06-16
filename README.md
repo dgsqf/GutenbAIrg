@@ -29,9 +29,9 @@ $ cd AIBookFormater
 
 use it
 
-'''
+```
 python --in (path to your input text) --out (output file)
-'''
+```
 
 this may take a while because dalle flow's server can be overloaded at times
 
@@ -53,7 +53,7 @@ Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) 
 
 ## Authors
 
-* **Dgsqef** - *Initial work* - (https://github.com/AIBookFomater)
+
 
 See also the list of [contributors](https://github.com/dgsqef/AIBookFormater/contributors) who participated in this project.
 
