@@ -30,7 +30,7 @@ $ cd AIBookFormater
 use it
 
 ```
-$ python --in (path to your input file) --out (output file)
+$ python --inp (path to your input file) --out (output file)
 ```
 
 this may take a while because dalle flow's server can be overloaded at times
