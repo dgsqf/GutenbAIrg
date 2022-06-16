@@ -55,7 +55,7 @@ Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) 
 
 
 
-See also the list of [contributors](https://github.com/dgsqef/AIBookFormater/contributors) who participated in this project.
+See also the list of (https://github.com/dgsqf/AIBookFormater/graphs/contributors) who participated in this project.
 
 ## License
 
