@@ -8,7 +8,7 @@ A python CLI to create a book from a text
 What things you need to install the software and how to install them
 
 - Python 3.9
-- https://github.com/jina-ai/dalle-flow
+
 
 
 ### Installing
@@ -40,10 +40,7 @@ for input format refer to the wiki
 
 
 
-## Built With
 
-* https://github.com/jina-ai/dalle-flow image generation
-* https://github.com/explosion/spaCy text comprehension
 
 
 ## Contributing
