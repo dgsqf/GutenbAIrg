@@ -55,7 +55,7 @@ If you see English errors please correct them
 
 
 
-See also the list of (https://github.com/dgsqf/AIBookFormater/graphs/contributors) who participated in this project.
+See also the list of https://github.com/dgsqf/AIBookFormater/graphs/contributors who participated in this project.
 
 ## License
 
