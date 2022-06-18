@@ -14,5 +14,3 @@ for i in range(1,args.c+1):
     with open(f'{args.inp}/{str(i)}.txt','r') as f:
         book.AddChapter(util.CutTextInPages(f.read()),str(i))
 
-
-book.RenderChapters()
