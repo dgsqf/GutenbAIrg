@@ -45,7 +45,7 @@ for input format refer to the wiki
 
 ## Contributing
 
-Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 If you see English errors please correct them
 
@@ -55,7 +55,7 @@ If you see English errors please correct them
 
 
 
-See also the list of https://github.com/dgsqf/AIBookFormater/graphs/contributors who participated in this project.
+See also the list of [Contributors](https://github.com/dgsqf/AIBookFormater/graphs/contributors) who participated in this project.
 
 ## License
 
