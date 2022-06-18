@@ -5,7 +5,7 @@ A python CLI to create a book from a text
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
 
 - Python 3.9
 
@@ -30,10 +30,10 @@ $ cd AIBookFormater
 use it
 
 ```
-$ python --inp (path to your input file) --out (output file)
+$ python --inp (path to your input file) --out (output file) --c (number of chapters)
 ```
 
-this may take a while because dalle flow's server can be overloaded at times
+
 
 for input format refer to the wiki
 
@@ -45,7 +45,9 @@ for input format refer to the wiki
 
 ## Contributing
 
-Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+If you see English errors please correct them
 
 
 
@@ -53,7 +55,7 @@ Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) 
 
 
 
-See also the list of (https://github.com/dgsqf/AIBookFormater/graphs/contributors) who participated in this project.
+See also the list of [Contributors](https://github.com/dgsqf/AIBookFormater/graphs/contributors) who participated in this project.
 
 ## License
 
