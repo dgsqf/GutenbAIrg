@@ -13,7 +13,3 @@ book = util.Book(os.path.basename(os.path.normpath(args.inp)))
 for i in range(1,args.c+1):
     with open(f'{args.inp}/{str(i)}.txt','r') as f:
         book.AddChapter(util.CutTextInPages(f.read()),str(i))
-
-
-print(book.chapters['1'])
-print(book.chapters['2'])
