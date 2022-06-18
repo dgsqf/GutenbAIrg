@@ -5,7 +5,7 @@ A python CLI to create a book from a text
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
 
 - Python 3.9
 
@@ -33,7 +33,7 @@ use it
 $ python --inp (path to your input file) --out (output file)
 ```
 
-this may take a while because dalle flow's server can be overloaded at times
+
 
 for input format refer to the wiki
 
