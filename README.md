@@ -30,7 +30,7 @@ $ cd AIBookFormater
 use it
 
 ```
-$ python --inp (path to your input file) --out (output file)
+$ python --inp (path to your input file) --out (output file) --c (number of chapters)
 ```
 
 
