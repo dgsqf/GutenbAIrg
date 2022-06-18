@@ -15,5 +15,4 @@ for i in range(1,args.c+1):
         book.AddChapter(util.CutTextInPages(f.read()),str(i))
 
 
-print(book.chapters['1'])
-print(book.chapters['2'])
+book.RenderChapters()
