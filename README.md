@@ -47,6 +47,8 @@ for input format refer to the wiki
 
 Please read (https://github.com/dgsqf/AIBookFormater/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+If you see English errors please correct them
+
 
 
 ## Authors
