@@ -1,4 +1,4 @@
-# AIBookFormater
+# GutenbAIrg
 
 A python CLI to create a book from a text
 
